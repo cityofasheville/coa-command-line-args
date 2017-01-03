@@ -1,5 +1,5 @@
 {
-  "name": "command-line-args",
+  "name": "coa-command-line-args",
   "version": "1.0.0",
   "description": "Simple command line processing utility.",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cityofasheville/command-line-args.git"
+    "url": "https://github.com/cityofasheville/coa-command-line-args.git"
   }
 }
